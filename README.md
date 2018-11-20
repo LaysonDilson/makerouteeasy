@@ -41,3 +41,11 @@ Clients Services ( POST, GET, PUT ) and a bonus POST(if you want create a list o
 Restaurants Services ( POST, GET, PUT ) and a bonus POST(if you want create a list of restaurants)
 Orders Services ( POST, GET, PUT ) and a bonus POST(if you want create a list of orders)
 Routes (GET)
+
+
+## Tricks
+If you need a generate a test mass just run the unit tests of class bellow:
+```
+RoutesServiceImplTest
+```
+and take the jsons on folder named by "massa", they will be gerated a one of each(clients,restaurants and orders)
