@@ -56,7 +56,7 @@ Now consider that your micro-services are a success inside IFood, it must be pre
 
 Use whatever tools and frameworks you feel comfortable with, and briefly elaborate on your solution, architecture details, choice of patterns and frameworks. The only restriction is to use Java.
 
-Also, make it easy to deploy/run your service(s) locally (consider using some container/vm solution for this). We expect that you solve this test in about 8 hours. Once done, share your code with us.
+Also, make it easy to deploy/run your service(s) locally (consider using some container/vm solution for this).
 
 
 
