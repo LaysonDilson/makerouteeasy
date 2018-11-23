@@ -3,11 +3,11 @@ Simple app to try solve the Vehicle Routing Problem
 
 
 ## Table of content
-- [Problem to solve] (#Problem to solve)
+- [Problem](#Problem)
 - [Installation](#Installation)
 - [Quickstart](#quickstart)
 
-## Problem to solve
+## Problem
 
 You have been hired to create a completely new micro-service to route orders minimizing overall distance. This problem is well known as Vehicle Routing Problem, please find a reference for it at (https://en.wikipedia.org/wiki/Vehicle_routing_problem).
 
